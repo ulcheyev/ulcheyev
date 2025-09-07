@@ -15,7 +15,7 @@
 
 - 🔭 Currently building: full-stack systems using **Java**, **Spring Boot**, **React**
 - 🚀 Always exploring: **distributed systems**, **algorithms**, and **clean architecture**
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/yevgeniy-ulchenkov-713b17237/)
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/ulcheyev)
 
 ---
 
@@ -117,7 +117,7 @@
 ### 🧩 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yevgeniy-ulchenkov-713b17237/" target="_blank">
+  <a href="https://www.linkedin.com/in/ulcheyev" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:ulchenkov2001@gmail.com">
