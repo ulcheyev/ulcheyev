@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Yevgeniy</h1>
+<h1 align="center">Hey 👋</h1>
 <p align="center">
   <img src="./icons/header_1.png" width="80%" alt="Header Image" />
 </p>
@@ -70,17 +70,23 @@
 ---
 ### 🧰 Featured Projects
 
-#### 🎬 **MovieMate** | Full microservices architecture for personalized movie recommendations. 
+#### 🎬 **MovieMate**  
 <a href="https://github.com/mankis-movie-mate">
-  <img src="https://img.shields.io/badge/Project-MovieMate-1DA1F2?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Project-MovieMate-1DA1F2?style=for-the-badge&logo=github" align="right"/>
 </a>
+<p align="left">
+  Full-stack movie recommendation platform. It leverages microservices architecture and integrates personalized movie recommendations for users.
+</p>
 
 <br />
 
-#### 💬 **Distributed Chat App** | Application for exchanging messages between nodes. 
+#### 💬 **Distributed Chat App**   
 <a href="https://github.com/ulcheyev/dsv-distributed-chat-app">
-  <img src="https://img.shields.io/badge/Project-DSV%20Chat%20App-1DA1F2?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Project-DSV%20Chat%20App-1DA1F2?style=for-the-badge&logo=github" align="right" />
 </a>
+<p align="left">
+  The primary focus is on addressing the Leader Election and Mutual Exclusion problems.
+</p>
 
 ---
 ### 📈 GitHub Stats
