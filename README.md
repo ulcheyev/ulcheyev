@@ -1,8 +1,8 @@
-<h1 align="center">Hey 👋</h1>
+<h1 align="center">👋</h1>
 <p align="center">
   <img src="./icons/header_1.png" width="80%" alt="Header Image" />
 </p>
-<h3 align="center">🎓 Master's Student in Software Engineering @ CTU in Prague</h3>
+<h3 align="center">🎓 Master's in Software Engineering @ CTU in Prague</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ulcheyev&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -95,13 +95,6 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ulcheyev&theme=react-dark&hide_border=true" width="100%" />
 </div>
-
----
-
-### 🎯 Goals for 2025
-
-- ✅ Contribute to open-source in **Java** or **Kotlin**
-- ✅ Build real-world **SaaS** side project
 
 ---
 
